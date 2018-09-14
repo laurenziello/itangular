@@ -8,3 +8,6 @@ In questa semplice app copriremo concetti essenziali di Angular inclusi:
 * Mostrare liste di oggetti nella vista
 * Intercettare clicks degli utenti e fare azioni su essi
 * Fare il deploy su un server
+Alla fine di questo capitolo saprai prendere una cartella vuota, costruirci dentro un'applicazione Angular e pubblicarla in produzione.
+Avrai le basi per comprendere come sono costruite le applicazioni Angular e delle solide fondamenta per svilupparene una.
+![gras](capitolo01/img/immagine01.jpg)
