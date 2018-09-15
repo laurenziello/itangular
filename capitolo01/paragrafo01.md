@@ -19,17 +19,3 @@ Primo, un utente pubblicherà un nuovo link dopodichè avrà la possibilità di 
 
 In questo progetto e per tutto il libro, useremo TypeScript. TypeScript è un superset di JavaScript ES6 che aggiunge i tipi. Non parleremo di TypeScript in profondità in questo capitolo, ma andremo più in profondità di TypeScript nei prossimi capitoli.
 Non preoccuparti se non ti senti confidente con la nuova sinstassi. Se sei familiare con ES5/ES6 dovresti essere capace di seguire e parleremo di più di TypeScript fra poco.
-
-# Getting started
-
-#### Node.js and npm
-
-Per iniziare con Angular, hai bisogno di installare Node,js. Ci sono diversi modi di installare Node.js, quindi controlla il sito di Node.js per informazioni a riguardo.
-
-#### Assicurati di installare Node 8.9.0 o versioni superiore
-
-Il gestore dei pacchetti Node meglio conosciuto come *npm* è installato come parte di Node.js. Per controllare se *npm* fa parte del nostro ambiente di sviluppo, possiamo aprire un terminale e digitare:
-
-```markdown
-$ npm -v
-```
