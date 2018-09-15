@@ -1,6 +1,6 @@
 # Iniziamo
 
-### Node.js and *npm*
+### Node
 
 Per iniziare con Angular, hai bisogno di installare Node,js. Ci sono diversi modi di installare Node.js, quindi controlla il sito di Node.js per informazioni a riguardo.
 
