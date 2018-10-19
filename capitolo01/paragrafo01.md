@@ -11,11 +11,11 @@ In questa semplice app copriremo concetti essenziali di Angular inclusi:
 * Fare il deploy su un server
 
 Alla fine di questo capitolo saprai prendere una cartella vuota, costruirci dentro un'applicazione Angular e pubblicarla in produzione.
-Avrai le basi per comprendere come sono costruite le applicazioni Angular e delle solide fondamenta per svilupparene una.
+Avrai le basi per comprendere come sono costruite le applicazioni Angular e delle solide fondamenta per svilupparne una.
 
 ![immagine1](img/immagine01.png)
 
-Primo, un utente pubblicherà un nuovo link dopodichè avrà la possibilità di dare un voto positivo o negativo ad ogni articolo. Ongi link avrà un punteggio e potremmo votare su ogni links che giudicheremo utile.
+Come prima cosa l'utente pubblicherà un nuovo link dopodichè avrà la possibilità di dare un voto positivo o negativo ad ogni articolo. Ongi link avrà un punteggio e potremmo votare sui links che giudicheremo utili.
 
-In questo progetto e per tutto il libro, useremo TypeScript. TypeScript è un superset di JavaScript ES6 che aggiunge i tipi. Non parleremo di TypeScript in profondità in questo capitolo, ma andremo più in profondità di TypeScript nei prossimi capitoli.
-Non preoccuparti se non ti senti confidente con la nuova sinstassi. Se sei familiare con ES5/ES6 dovresti essere capace di seguire e parleremo di più di TypeScript fra poco.
+In questo progetto e per tutto il libro, useremo TypeScript. TypeScript è un superset di JavaScript ES6 a cui sono stati aggiunti i tipi. Parleremo di TypeScript in modo più approfondito nei prossimi capitoli.
+Non preoccuparti se non ti senti confidente con la nuova sinstassi. Se sei familiare con ES5/ES6 dovresti essere capace di seguire senza problemi.
