@@ -78,3 +78,17 @@ Andiamo nella cartella *angular-hello-world* e controlliamo cosa è stato creato
 Per adesso siamo interessati al contenuto della cartella *src*, dove ci sarà il codice della nostra applicazione. 
 Aprendo il file *index.html* notiamo il classico codice HTML tranne che per un tag *app-root*.
 *app-root* è un componente definito dalla nostra applicazione Angular, infatti in Angular possiamo definiere dei tag personalizzati e dargli funzionalità personalizzate. Il tag *app-root* sarà il nostro punto di ingresso per la nostra applicazione nella pagina. 
+
+## Scriviamo il codice dell'applicazione
+
+Prima di qualsiasi modifica carichiamo la nostra app dall'applicazione generale nel browser. L'Angular CLI ha un HTTP server integrato che possiamo usare per eseguire la nostra app. Per usarlo, ritorniamo al terminale, posizioniamoci nella cartella radice della nostra applicazione.
+
+```markdown
+$ cd angular-hello-world
+$ ng serve
+** NG Live Development Server is running on http://localhost:4200. **
+// ...
+// a bunch of other messages
+// ...
+Compiled successfully.
+```
